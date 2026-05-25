@@ -1,4 +1,4 @@
-package org.example.arrays_easy;
+package org.example.arrays.easy;
 
 public class LargestElement {
     public static int largest(int[] arr) {

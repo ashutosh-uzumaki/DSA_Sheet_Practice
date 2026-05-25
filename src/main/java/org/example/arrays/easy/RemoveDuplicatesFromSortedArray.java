@@ -1,4 +1,4 @@
-package org.example.arrays_easy;
+package org.example.arrays.easy;
 
 public class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
