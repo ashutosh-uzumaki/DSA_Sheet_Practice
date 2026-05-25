@@ -1,5 +1,7 @@
 package org.example.arrays.medium;
 
+import java.util.*;
+
 public class LongestConsecutive {
     public int longestConsecutive(int[] nums) {
         if(nums == null || nums.length <= 0){
