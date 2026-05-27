@@ -1,5 +1,7 @@
 package org.example.binary_search.on_answer;
 
+import java.util.*;
+
 public class KokoEatingBananas {
     public int minEatingSpeed(int[] arr, int h) {
         long low = 1l;
