@@ -1,4 +1,4 @@
-package org.example.bit_manipulation;
+package org.example.bit_manipulation.basics;
 
 public class CheckEven {
     static boolean isEven(int n) {

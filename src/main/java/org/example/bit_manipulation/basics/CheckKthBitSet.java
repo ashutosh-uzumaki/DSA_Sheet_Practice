@@ -1,4 +1,4 @@
-package org.example.bit_manipulation;
+package org.example.bit_manipulation.basics;
 
 public class CheckKthBitSet {
     static boolean checkKthBit(int n, int k) {
