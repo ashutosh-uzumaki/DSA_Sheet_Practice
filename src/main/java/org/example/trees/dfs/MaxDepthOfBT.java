@@ -1,6 +1,6 @@
-package org.example.trees;
+package org.example.trees.dfs;
 
-public class MaximumDepthOfBT {
+public class MaxDepthOfBT {
     public int maxDepth(TreeNode root) {
         if(root == null){
             return 0;

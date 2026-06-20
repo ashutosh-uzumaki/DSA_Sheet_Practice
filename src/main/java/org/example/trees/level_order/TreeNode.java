@@ -1,4 +1,4 @@
-package org.example.trees;
+package org.example.trees.level_order;
 
 public class TreeNode {
      int val;
