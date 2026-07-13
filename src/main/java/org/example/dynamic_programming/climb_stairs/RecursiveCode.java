@@ -1,4 +1,4 @@
-package org.example.dynamic_programming.fibanocci.climb_stairs;
+package org.example.dynamic_programming.climb_stairs;
 
 public class RecursiveCode {
     public int climbStairs(int n) {
