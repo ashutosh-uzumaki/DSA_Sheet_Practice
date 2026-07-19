@@ -1,5 +1,7 @@
 package org.example.dynamic_programming.partition_dp.three_equal_parts;
 
+import java.util.*;
+
 public class PartitionArrayIntoThreeEqualParts {
     public boolean canThreePartsEqualSum(int[] arr) {
         int totalSum = Arrays.stream(arr).sum();
